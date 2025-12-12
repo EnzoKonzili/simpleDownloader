@@ -36,3 +36,5 @@ A versatile menu-driven tool for common audio and video operations using FFmpeg.
    - Ensure ffmpeg is installed on your system or placed in a `./ffmpeg/bin` folder next to the executables.
    - If you downloaded the .rar file on your first install you got ffmpeg already included in there.
 
+### Configuration
+To configure the library function paste one library path per line like: G:/Youtube/Music
